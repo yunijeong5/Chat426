@@ -1,0 +1,72 @@
+# verison of docker compose
+version: "3.9"
+
+services:
+    client: # name of container
+        build: client # path to Dockerfile
+        ports:
+            - "3000:3000" # maps container's port to a port on host machine
+        volumes:
+            - ./client:/usr/app # connect client folder to usr/app in the container
+            # any modification made in client will be reflected in usr/app
+            - /usr/app/build # keep the build directory built in the image
+            - /usr/app/node_modules # also keep the node modules inside the built image
+            - ./logs:/usr/app/logs # connect log volume
+        environment:
+            LOG_FILE: /usr/app/logs/combined.log
+
+    event-bus:
+        build: event-bus
+        # we're not exposing port for event bus
+        # only need to expose the ones used by client (browser)
+        volumes:
+            - ./event-bus:/usr/app
+            - /usr/app/node_modules
+            - ./logs:/usr/app/logs # connect log volume
+        environment:
+            LOG_FILE: /usr/app/logs/combined.log
+    chatroom:
+        build: chatroom
+        ports:
+            - "5000:5000"
+        volumes:
+            - ./chatroom:/usr/app
+            - /usr/app/node_modules
+            - ./logs:/usr/app/logs # connect log volume
+        environment:
+            LOG_FILE: /usr/app/logs/combined.log
+    moderator:
+        build: moderator
+        ports:
+            - "5001:5001"
+        volumes:
+            - ./moderator:/usr/app
+            - /usr/app/node_modules
+            - ./logs:/usr/app/logs # connect log volume
+        environment:
+            LOG_FILE: /usr/app/logs/combined.log
+    vote:
+        build: vote
+        ports:
+            - "5002:5002"
+        volumes:
+            - ./vote:/usr/app
+            - /usr/app/node_modules
+            - ./logs:/usr/app/logs # connect log volume
+        environment:
+            LOG_FILE: /usr/app/logs/combined.log
+
+    db:
+        image: mongo:latest
+        volumes:
+            - db-data:/data/db
+        ports:
+            - 27017:27017 # default MongoDB port
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: admin
+            MONGO_INITDB_ROOT_PASSWORD: secret
+
+volumes:
+    db-data:
+    logs:
+# run with docker compose up --build

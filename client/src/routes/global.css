@@ -1,0 +1,96 @@
+* {
+	font-family: 'Inter', sans-serif;
+	--main-color: rgb(53, 136, 239);
+	--secondary-color: rgb(106, 167, 242);
+	--gray-0: #e6e6e6;
+	--gray-1: #bababa;
+	--gray-2: #a0a0a0;
+	--gray-3: #767676;
+}
+
+.welcome {
+	color: var(--main-color);
+}
+
+/* ACTIVE USERS PILL */
+.user {
+	background-color: var(--gray-3);
+	border-radius: 10rem;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	color: white;
+}
+
+/* "XXX is typing..." */
+.activity {
+	font-style: italic;
+	color: var(--gray-1);
+}
+
+/* CHAT DISPLAY SECTION */
+.chat-container {
+	height: 500px;
+	border: var(--gray-1) solid 2px;
+	border-radius: 1rem;
+	overflow-y: auto;
+}
+
+.chat-display {
+	list-style-type: none;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+.bubble-name {
+	font-size: small;
+	color: var(--gray-3);
+}
+.bubble-text {
+	padding: 0.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	max-width: 60%;
+	word-wrap: normal;
+}
+
+.bubble-left {
+	border-radius: 1rem 1rem 1rem 0rem;
+	background-color: var(--gray-0);
+}
+
+.bubble-right {
+	border-radius: 1rem 1rem 0rem 1rem;
+	background-color: var(--main-color);
+	color: white;
+}
+
+.bubble-time {
+	color: var(--gray-2);
+	font-size: small;
+}
+
+.admin-message {
+	color: var(--gray-3);
+}
+
+.moderated {
+	color: var(--gray-2);
+	font-style: italic;
+}
+
+/* VOTING FOR CHAT BUBBLE */
+.vote {
+	color: var(--main-color);
+}
+
+.btn-vote {
+	color: var(--main-color);
+	background-color: transparent;
+	border-color: transparent;
+	padding: 0;
+}
+
+.voters {
+	font-size: small;
+	color: var(--secondary-color);
+}

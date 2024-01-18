@@ -1,0 +1,1953 @@
+info: (37) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T02:19:18.972Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:19:19.380Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:19:19.406Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:19:19.424Z"}
+info: (66) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:19:19.508Z"}
+info: (82) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:19:19.669Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:19:19.784Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:19:19.805Z"}
+info: (73) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:19:19.823Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:19:19.855Z"}
+info: (89) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:19:19.927Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:19:38.794Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:19:38.798Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:19:38.798Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:19:38.887Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:19:38.887Z"}
+info: (37) Chatroom service: User ikeKvMMxCE6tdeUbAAAB entered the chat. {"timestamp":"2023-12-13T02:20:21.022Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:20:21.025Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:20:21.027Z"}
+error: BSON field 'insert.documents.0' is the wrong type 'array', expected type 'object' {"code":14,"codeName":"TypeMismatch","ok":0,"timestamp":"2023-12-13T02:20:21.036Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:20:21.036Z"}
+info: (37) Chatroom service: User ikeKvMMxCE6tdeUbAAAB entered the chat. {"timestamp":"2023-12-13T02:20:22.933Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:20:22.936Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:20:22.939Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:20:22.944Z"}
+error: BSON field 'insert.documents.0' is the wrong type 'array', expected type 'object' {"code":14,"codeName":"TypeMismatch","ok":0,"timestamp":"2023-12-13T02:20:22.944Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:20:26.261Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:20:26.262Z"}
+info: (46) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:20:26.312Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:20:26.330Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:21:13.110Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:21:13.344Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:21:13.345Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:21:13.345Z"}
+info: (73) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:21:13.425Z"}
+info: (73) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:21:13.425Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:21:59.965Z"}
+info: (57) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:21:59.977Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:22:00.008Z"}
+info: (57) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:22:00.036Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:22:00.040Z"}
+info: (37) Chatroom service: User U1DEwmyvd3A_pwzpAAAD entered the chat. {"timestamp":"2023-12-13T02:22:01.103Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:01.106Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:01.108Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:01.114Z"}
+error: BSON field 'insert.documents.0' is the wrong type 'array', expected type 'object' {"code":14,"codeName":"TypeMismatch","ok":0,"timestamp":"2023-12-13T02:22:01.118Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:22:31.619Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:31.620Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:22:31.620Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:22:31.716Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:22:31.716Z"}
+info: (37) Chatroom service: User Y4q3LF90R2tOxJsIAAAF entered the chat. {"timestamp":"2023-12-13T02:22:38.246Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:38.249Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:38.251Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:22:38.256Z"}
+error: BSON field 'insert.documents.0' is the wrong type 'array', expected type 'object' {"code":14,"codeName":"TypeMismatch","ok":0,"timestamp":"2023-12-13T02:22:38.257Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:22:53.239Z"}
+info: (37) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:22:53.243Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:22:53.268Z"}
+info: (37) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:22:53.290Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:22:53.293Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:23:02.214Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:23:02.390Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:23:02.391Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:23:02.391Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:23:02.401Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:23:02.409Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:23:05.465Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:23:05.624Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:23:05.625Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:23:05.625Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:23:05.638Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:23:05.639Z"}
+info: (37) Chatroom service: User IFttMKdnyoK2s1lWAAAH entered the chat. {"timestamp":"2023-12-13T02:26:20.908Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:20.910Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:20.912Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:20.917Z"}
+error: BSON field 'insert.documents.0' is the wrong type 'array', expected type 'object' {"code":14,"codeName":"TypeMismatch","ok":0,"timestamp":"2023-12-13T02:26:20.917Z"}
+warn: (82) Moderator Service: Chat undefined used banned word(s). {"timestamp":"2023-12-13T02:26:23.807Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:26:23.845Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:26:23.846Z"}
+info: (82) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:26:23.866Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:26:23.873Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:53.044Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:26:53.267Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:53.268Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:26:53.268Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:26:53.285Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:26:53.286Z"}
+info: (37) Chatroom service: User M0CK7SD-OnMnyAVgAAAL entered the chat. {"timestamp":"2023-12-13T02:26:56.344Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:56.346Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:56.349Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:26:56.353Z"}
+error: BSON field 'insert.documents.0' is the wrong type 'array', expected type 'object' {"code":14,"codeName":"TypeMismatch","ok":0,"timestamp":"2023-12-13T02:26:56.354Z"}
+info: (37) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:38:59.291Z"}
+info: (67) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:38:59.509Z"}
+info: (57) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:38:59.539Z"}
+info: (47) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:38:59.575Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:38:59.636Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:38:59.667Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T02:38:59.731Z"}
+info: (82) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:38:59.735Z"}
+info: (68) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:38:59.745Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:38:59.756Z"}
+info: (82) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:38:59.810Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:40:06.516Z"}
+error: Cannot read properties of undefined (reading 'usersArray') {"timestamp":"2023-12-13T02:40:06.517Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:40:06.707Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:40:06.708Z"}
+error: Cannot read properties of undefined (reading 'usersArray') {"timestamp":"2023-12-13T02:40:06.708Z"}
+info: (36) Chatroom service: User Cs5JvfnA5qmi-50UAAAF entered the chat. {"timestamp":"2023-12-13T02:40:34.594Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:40:34.599Z"}
+error: Cannot read properties of undefined (reading 'usersArray') {"timestamp":"2023-12-13T02:40:34.599Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:44:39.312Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:44:39.338Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:44:39.500Z"}
+info: (71) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:44:39.601Z"}
+info: (38) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T02:44:39.607Z"}
+info: (88) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:44:39.650Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:44:39.655Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:44:39.684Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:44:39.695Z"}
+info: (72) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:44:39.784Z"}
+info: (95) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:44:39.877Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:44:46.415Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:44:46.418Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:44:46.419Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:44:46.521Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:44:46.521Z"}
+info: (38) Chatroom service: User zxEP55LrFAxNNaH-AAAD entered the chat. {"timestamp":"2023-12-13T02:44:50.495Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:44:50.500Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:44:50.504Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:44:50.517Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:44:50.518Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:44:59.741Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:44:59.741Z"}
+info: (46) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:44:59.792Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:44:59.807Z"}
+info: (38) Chatroom service: User zxEP55LrFAxNNaH-AAAD entered the chat. {"timestamp":"2023-12-13T02:46:31.579Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:31.583Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:31.586Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:31.590Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:46:31.593Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:46:42.509Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:42.510Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:46:42.511Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:46:42.564Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:46:42.565Z"}
+info: (38) Chatroom service: User DZSBfZSdlnkUL3aGAAAF entered the chat. {"timestamp":"2023-12-13T02:46:45.240Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:45.243Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:45.245Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:45.251Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:46:45.257Z"}
+info: (38) Chatroom service: User DZSBfZSdlnkUL3aGAAAF entered the chat. {"timestamp":"2023-12-13T02:46:47.405Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:46:47.407Z"}
+warn: (56) Moderator Service: Chat undefined used banned word(s). {"timestamp":"2023-12-13T02:46:56.612Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:46:56.647Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:46:56.648Z"}
+info: (56) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:46:56.694Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:46:56.701Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:46:58.635Z"}
+info: (72) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:46:58.642Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:46:58.667Z"}
+info: (72) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:46:58.692Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:46:58.695Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:46:59.605Z"}
+info: (72) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:46:59.609Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:46:59.613Z"}
+info: (72) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:46:59.622Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:46:59.624Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:47:00.541Z"}
+info: (72) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:47:00.545Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:47:00.549Z"}
+info: (72) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:47:00.557Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:47:00.559Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:47:01.808Z"}
+info: (72) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:47:01.812Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:47:01.816Z"}
+info: (72) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:47:01.830Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:47:01.832Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:47:09.215Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:47:09.215Z"}
+info: (88) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:47:09.243Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:47:09.250Z"}
+info: (38) Chatroom service: User DZSBfZSdlnkUL3aGAAAF entered the chat. {"timestamp":"2023-12-13T02:47:24.783Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:47:24.785Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:47:24.787Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:47:24.791Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:47:24.793Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:47:27.185Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:47:27.185Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:47:27.203Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:47:27.208Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:49:04.900Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:49:05.097Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:49:05.120Z"}
+info: (88) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:49:05.371Z"}
+info: (72) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:49:05.367Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T02:49:05.433Z"}
+info: (36) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:49:05.483Z"}
+info: (56) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:49:05.566Z"}
+info: (46) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:49:05.581Z"}
+info: (72) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:49:05.666Z"}
+info: (82) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:49:05.728Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:49:09.917Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:49:09.989Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:49:09.991Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:49:09.991Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:49:10.045Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:49:10.046Z"}
+info: (36) Chatroom service: User Br174Ms--tubu3fjAAAH entered the chat. {"timestamp":"2023-12-13T02:50:43.303Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:50:43.305Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:50:43.307Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:50:43.316Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:50:43.318Z"}
+info: (36) Chatroom service: User Br174Ms--tubu3fjAAAH entered the chat. {"timestamp":"2023-12-13T02:53:27.487Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:27.491Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:27.495Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:27.503Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:53:27.504Z"}
+info: (36) Chatroom service: User Br174Ms--tubu3fjAAAH entered the chat. {"timestamp":"2023-12-13T02:53:33.995Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:33.997Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:37.391Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:37.392Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:37.395Z"}
+info: (36) User Br174Ms--tubu3fjAAAH disconnected. {"timestamp":"2023-12-13T02:53:37.396Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:53:37.396Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:53:37.531Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:37.533Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:53:37.533Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:53:37.592Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:53:37.592Z"}
+info: (36) Chatroom service: User PzHxEBv0JEA1_1wlAAAJ entered the chat. {"timestamp":"2023-12-13T02:53:40.216Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:40.219Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:40.220Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:53:40.227Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:53:40.229Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:53:55.525Z"}
+info: (46) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:53:55.531Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:53:55.560Z"}
+info: (46) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:53:55.594Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:53:55.605Z"}
+info: (36) Chatroom service: User PzHxEBv0JEA1_1wlAAAJ entered the chat. {"timestamp":"2023-12-13T02:54:01.872Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:54:01.875Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:54:01.877Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:54:01.882Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:54:01.886Z"}
+info: (35) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:57:47.896Z"}
+info: (45) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:57:47.913Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T02:57:47.957Z"}
+info: (55) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:57:48.148Z"}
+info: (71) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:57:48.184Z"}
+info: (35) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:57:48.261Z"}
+info: (87) Moderator Listening on 5001 {"timestamp":"2023-12-13T02:57:48.271Z"}
+info: (55) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:57:48.411Z"}
+info: (45) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:57:48.433Z"}
+info: (70) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:57:48.487Z"}
+info: (80) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T02:57:48.517Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:57:54.157Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:57:54.228Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:57:54.235Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:57:54.235Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:57:54.287Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:57:54.287Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:58:37.227Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:37.229Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:58:37.229Z"}
+info: (55) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:58:37.278Z"}
+info: (55) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:58:37.278Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:39.737Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:58:39.833Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:39.836Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:58:39.836Z"}
+info: (55) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:58:39.853Z"}
+info: (55) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:58:39.853Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:41.679Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:58:41.802Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:41.803Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:58:41.803Z"}
+info: (55) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:58:41.815Z"}
+info: (55) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:58:41.816Z"}
+info: (36) Chatroom service: User Q55Wm5hiX9LuJIQTAAAH entered the chat. {"timestamp":"2023-12-13T02:58:55.076Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:55.079Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:55.081Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:55.093Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:58:55.096Z"}
+info: (36) Chatroom service: User Q55Wm5hiX9LuJIQTAAAH entered the chat. {"timestamp":"2023-12-13T02:58:56.933Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:58:56.935Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:59:01.638Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T02:59:01.704Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:59:01.705Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T02:59:01.705Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:59:01.766Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T02:59:01.767Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:59:07.859Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:59:07.859Z"}
+info: (35) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:59:07.909Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:59:07.924Z"}
+info: (36) Chatroom service: User 00dEl2XORs04PYozAAAP entered the chat. {"timestamp":"2023-12-13T02:59:18.389Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:59:18.391Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:59:18.393Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:59:18.400Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T02:59:18.401Z"}
+info: (36) Chatroom service: User 00dEl2XORs04PYozAAAP entered the chat. {"timestamp":"2023-12-13T02:59:19.468Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T02:59:19.470Z"}
+info: (80) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T02:59:42.255Z"}
+info: (80) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T02:59:42.261Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T02:59:42.287Z"}
+info: (80) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T02:59:42.313Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T02:59:42.317Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T02:59:45.616Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T02:59:45.617Z"}
+info: (55) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T02:59:45.648Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T02:59:45.653Z"}
+info: (36) Chatroom service: User rVHTgYobEbX6TKaPAAAN entered the chat. {"timestamp":"2023-12-13T03:00:15.019Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:15.022Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:15.024Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:15.030Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:00:15.031Z"}
+info: (36) Chatroom service: User rVHTgYobEbX6TKaPAAAN entered the chat. {"timestamp":"2023-12-13T03:00:24.617Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:24.618Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:24.619Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:24.622Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:00:24.623Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:00:38.507Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:00:38.508Z"}
+info: (87) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:00:38.538Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:00:38.546Z"}
+info: (36) Chatroom service: User rVHTgYobEbX6TKaPAAAN entered the chat. {"timestamp":"2023-12-13T03:00:44.539Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:44.549Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:44.551Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:44.562Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:00:44.565Z"}
+info: (36) Chatroom service: User rVHTgYobEbX6TKaPAAAN entered the chat. {"timestamp":"2023-12-13T03:00:46.115Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:46.118Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:49.648Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:49.650Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:49.652Z"}
+info: (36) User Q55Wm5hiX9LuJIQTAAAH disconnected. {"timestamp":"2023-12-13T03:00:49.652Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:00:49.654Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:00:49.764Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:00:49.765Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:00:49.765Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:00:49.785Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:00:49.785Z"}
+info: (36) Chatroom service: User DtbEhYlMZY_8L6v9AAAR entered the chat. {"timestamp":"2023-12-13T03:01:11.858Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:01:11.861Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:01:11.863Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:01:11.868Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:01:11.869Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:02:49.702Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:02:49.703Z"}
+info: (45) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:02:49.721Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:02:49.726Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:02:52.127Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:02:52.128Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:02:52.131Z"}
+info: (36) User rVHTgYobEbX6TKaPAAAN disconnected. {"timestamp":"2023-12-13T03:02:52.131Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:02:52.134Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:03.429Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:03.430Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:03.432Z"}
+info: (36) User 00dEl2XORs04PYozAAAP disconnected. {"timestamp":"2023-12-13T03:03:03.433Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:03:03.435Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:10.169Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:03:10.347Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:10.358Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:03:10.358Z"}
+info: (80) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:03:10.371Z"}
+info: (80) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:03:10.371Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:17.641Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:28.546Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:28.547Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:28.549Z"}
+info: (36) User DtbEhYlMZY_8L6v9AAAR disconnected. {"timestamp":"2023-12-13T03:03:28.549Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:03:28.550Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:03:28.622Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:28.623Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:03:28.623Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:03:28.637Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:03:28.645Z"}
+info: (36) Chatroom service: User yNRwYKA9MBIaKOSLAAAV entered the chat. {"timestamp":"2023-12-13T03:03:34.140Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:34.142Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:34.145Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:34.148Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:03:34.150Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:03:44.568Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:03:44.569Z"}
+info: (71) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:03:44.585Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:03:44.589Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:47.066Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:47.067Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:03:47.070Z"}
+info: (36) User yNRwYKA9MBIaKOSLAAAV disconnected. {"timestamp":"2023-12-13T03:03:47.071Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:03:47.071Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:04:20.122Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:04:20.123Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:04:20.124Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:04:20.143Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:04:20.154Z"}
+info: (36) Chatroom service: User y7C1ETaYbcDJhYtLAAAX entered the chat. {"timestamp":"2023-12-13T03:04:32.479Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:04:32.482Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:04:32.484Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:04:32.489Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:04:32.490Z"}
+info: (70) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:05:11.842Z"}
+info: (70) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T03:05:11.846Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T03:05:11.872Z"}
+info: (70) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T03:05:11.885Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T03:05:11.888Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:05:20.505Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:20.506Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:05:20.506Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:05:20.519Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:05:20.519Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:24.480Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:24.481Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:24.482Z"}
+info: (36) User y7C1ETaYbcDJhYtLAAAX disconnected. {"timestamp":"2023-12-13T03:05:24.482Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:05:24.483Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:05:24.656Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:24.658Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:05:24.658Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:05:24.674Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:05:24.675Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:29.032Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:05:29.093Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:05:29.094Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:05:29.094Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:05:29.106Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:05:29.109Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:00.020Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:06:00.224Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:00.225Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:06:00.230Z"}
+info: (55) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:06:00.245Z"}
+info: (55) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:06:00.249Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:05.843Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:06:06.006Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:06.007Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:06:06.007Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:06:06.028Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:06:06.028Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:07.263Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:06:07.394Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:07.395Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:06:07.395Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:06:07.412Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:06:07.412Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:11.795Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:06:11.965Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:06:11.966Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:06:11.966Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:06:11.991Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:06:11.992Z"}
+info: (36) Chatroom service: User oMpHNdhJDsHXqBfQAAAl entered the chat. {"timestamp":"2023-12-13T03:07:13.085Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:07:13.088Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:07:13.090Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:07:13.093Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:07:13.095Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:07:53.756Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:07:53.935Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:07:53.936Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:07:53.936Z"}
+info: (70) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:07:53.949Z"}
+info: (70) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:07:53.954Z"}
+info: (36) Chatroom service: User oN1OHXUxbJ49DhPGAAAn entered the chat. {"timestamp":"2023-12-13T03:08:00.630Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:00.632Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:00.634Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:00.639Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:00.640Z"}
+info: (36) Chatroom service: User oMpHNdhJDsHXqBfQAAAl entered the chat. {"timestamp":"2023-12-13T03:08:13.378Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:13.380Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:13.383Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:13.388Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:13.389Z"}
+info: (36) Chatroom service: User oN1OHXUxbJ49DhPGAAAn entered the chat. {"timestamp":"2023-12-13T03:08:24.825Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:24.828Z"}
+info: (36) Chatroom service: User oN1OHXUxbJ49DhPGAAAn entered the chat. {"timestamp":"2023-12-13T03:08:27.351Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:27.353Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:27.355Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:27.360Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:27.363Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:32.866Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:32.867Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:32.868Z"}
+info: (36) User oN1OHXUxbJ49DhPGAAAn disconnected. {"timestamp":"2023-12-13T03:08:32.868Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:32.869Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:08:33.041Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:33.042Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:08:33.042Z"}
+info: (80) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:08:33.070Z"}
+info: (80) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:08:33.071Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:37.619Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:37.620Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:37.623Z"}
+info: (36) User oMpHNdhJDsHXqBfQAAAl disconnected. {"timestamp":"2023-12-13T03:08:37.623Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:37.624Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:08:37.792Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:37.793Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:08:37.794Z"}
+info: (80) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:08:37.813Z"}
+info: (80) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:08:37.818Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:38.701Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:08:38.866Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:38.868Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:08:38.868Z"}
+info: (80) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:08:38.885Z"}
+info: (80) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:08:38.885Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:45.478Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:08:45.643Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:45.644Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:08:45.645Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:08:45.659Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:08:45.659Z"}
+info: (36) Chatroom service: User i4BiReC9Dza3ZVeEAAAt entered the chat. {"timestamp":"2023-12-13T03:08:52.486Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:52.488Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:52.488Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:52.493Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:52.493Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:57.726Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:57.727Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:57.729Z"}
+info: (36) User i4BiReC9Dza3ZVeEAAAt disconnected. {"timestamp":"2023-12-13T03:08:57.729Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:08:57.734Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:08:57.875Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:08:57.876Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:08:57.876Z"}
+info: (55) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:08:57.900Z"}
+info: (55) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:08:57.900Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:09:04.021Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:09:04.189Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:09:04.190Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:09:04.190Z"}
+info: (45) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:09:04.211Z"}
+info: (45) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:09:04.211Z"}
+info: (36) Chatroom service: User eglAzuwSw7Qdv6nGAAAx entered the chat. {"timestamp":"2023-12-13T03:09:07.246Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:09:07.248Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:09:07.250Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:09:07.255Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:09:07.256Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:09:55.783Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:09:55.783Z"}
+info: (45) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:09:55.793Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:09:55.800Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:10.407Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:10.408Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:10.410Z"}
+info: (36) User eglAzuwSw7Qdv6nGAAAx disconnected. {"timestamp":"2023-12-13T03:10:10.410Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:10:10.412Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:10:10.609Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:10.610Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:10:10.610Z"}
+info: (80) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:10:10.631Z"}
+info: (80) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:10:10.631Z"}
+info: (36) Chatroom service: User zc5yiSsjK1YreppXAAAz entered the chat. {"timestamp":"2023-12-13T03:10:26.798Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:26.801Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:26.803Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:10:26.808Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:10:26.810Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:14:19.211Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:14:19.214Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:14:19.216Z"}
+info: (36) User zc5yiSsjK1YreppXAAAz disconnected. {"timestamp":"2023-12-13T03:14:19.217Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:14:19.219Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:14:19.366Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:14:19.367Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:14:19.367Z"}
+info: (35) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:14:19.381Z"}
+info: (35) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:14:19.381Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:14:31.023Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:14:31.192Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:14:31.193Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:14:31.194Z"}
+info: (55) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:14:31.206Z"}
+info: (55) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:14:31.206Z"}
+info: (46) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:23:11.815Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:23:11.920Z"}
+info: (36) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:23:11.966Z"}
+info: (56) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:23:12.096Z"}
+info: (71) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:23:12.200Z"}
+info: (87) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:23:12.234Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:23:12.299Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:23:12.310Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:23:12.367Z"}
+info: (66) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:23:12.369Z"}
+info: (88) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:23:12.436Z"}
+info: (36) Chatroom service: User wtmSawNzrg-wN1fhAAAD entered the chat. {"timestamp":"2023-12-13T03:23:45.641Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:23:45.681Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:23:45.683Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:23:45.691Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:23:45.696Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:23:49.833Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:23:49.834Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:23:49.883Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:23:49.898Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:24:07.994Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:07.995Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:24:07.995Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:24:08.070Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:24:08.070Z"}
+info: (36) Chatroom service: User wtmSawNzrg-wN1fhAAAD entered the chat. {"timestamp":"2023-12-13T03:24:15.958Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:15.962Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:15.964Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:15.968Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:24:15.969Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:18.488Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:24:18.565Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:18.566Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:24:18.566Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:24:18.625Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:24:18.626Z"}
+info: (36) Chatroom service: User wtmSawNzrg-wN1fhAAAD entered the chat. {"timestamp":"2023-12-13T03:24:43.067Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:43.070Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:43.072Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:43.078Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:24:43.079Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:47.859Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:47.861Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:47.864Z"}
+info: (36) User wtmSawNzrg-wN1fhAAAD disconnected. {"timestamp":"2023-12-13T03:24:47.865Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:24:47.865Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:24:48.002Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:48.004Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:24:48.004Z"}
+info: (71) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:24:48.060Z"}
+info: (71) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:24:48.060Z"}
+info: (36) Chatroom service: User UHUVnKKrmQZUbwufAAAJ entered the chat. {"timestamp":"2023-12-13T03:24:52.606Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:52.608Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:52.611Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:52.618Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:24:52.620Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:54.839Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:24:54.909Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:54.910Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:24:54.911Z"}
+info: (87) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:24:54.963Z"}
+info: (87) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:24:54.964Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:57.393Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:57.394Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:57.395Z"}
+info: (36) User UHUVnKKrmQZUbwufAAAJ disconnected. {"timestamp":"2023-12-13T03:24:57.396Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:24:57.397Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:24:57.450Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:24:57.451Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:24:57.451Z"}
+info: (87) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:24:57.459Z"}
+info: (87) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:24:57.459Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:11.067Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:25:11.127Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:11.129Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:25:11.129Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:25:11.172Z"}
+info: (46) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:25:11.173Z"}
+info: (36) Chatroom service: User q2x0Fm5rOExH77wUAAAN entered the chat. {"timestamp":"2023-12-13T03:25:19.643Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:19.645Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:19.646Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:19.650Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:25:19.652Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:21.512Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:25:21.565Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:21.567Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:25:21.567Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:25:21.580Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:25:21.580Z"}
+info: (36) Chatroom service: User m7tsVaL3cqdg8puzAAAR entered the chat. {"timestamp":"2023-12-13T03:25:31.270Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:31.273Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:31.275Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:25:31.281Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:25:31.282Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:25:36.611Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:25:36.611Z"}
+info: (56) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:25:36.650Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:25:36.664Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:25:43.103Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:25:43.104Z"}
+info: (88) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:25:43.128Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:25:43.135Z"}
+info: (71) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:25:47.009Z"}
+info: (71) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T03:25:47.017Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T03:25:47.043Z"}
+info: (71) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T03:25:47.064Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T03:25:47.066Z"}
+info: (71) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:25:49.224Z"}
+info: (71) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T03:25:49.227Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T03:25:49.230Z"}
+info: (71) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T03:25:49.242Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T03:25:49.245Z"}
+info: (204881) Event bus: Listening on port 4000 {"timestamp":"2023-12-13T03:29:01.168Z"}
+info: (47) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:46:51.828Z"}
+info: (57) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:46:51.831Z"}
+info: (37) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:46:51.827Z"}
+info: (87) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:46:51.853Z"}
+info: (67) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:46:51.927Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:46:52.175Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:46:52.178Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:46:52.204Z"}
+info: (37) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:46:52.228Z"}
+info: (88) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:46:52.239Z"}
+info: (72) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:46:52.246Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:46:55.125Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:46:55.130Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:46:55.131Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:46:55.245Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:46:55.246Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:17.758Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:47:17.897Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:17.899Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:47:17.899Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:47:17.951Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:47:17.952Z"}
+info: (37) Chatroom service: User Dvk7ECGqPVuykZIZAAAD entered the chat. {"timestamp":"2023-12-13T03:47:20.799Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:20.801Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:20.803Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:47:20.809Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:20.812Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:47:29.373Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:47:29.374Z"}
+info: (37) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:47:29.420Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:47:29.436Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:47:37.151Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:37.152Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:47:37.153Z"}
+info: (88) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:47:37.206Z"}
+info: (88) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:47:37.207Z"}
+info: (37) Chatroom service: User 2xwDZBMQ2jdlpDQLAAAF entered the chat. {"timestamp":"2023-12-13T03:47:40.246Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:40.248Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:40.251Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:40.253Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:47:40.255Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:46.410Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:46.411Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:46.413Z"}
+info: (37) User Dvk7ECGqPVuykZIZAAAD disconnected. {"timestamp":"2023-12-13T03:47:46.413Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:47:46.415Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:47:46.483Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:46.484Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:47:46.484Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:47:46.540Z"}
+info: (72) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:47:46.541Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:50.525Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:50.528Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:50.530Z"}
+info: (37) User 2xwDZBMQ2jdlpDQLAAAF disconnected. {"timestamp":"2023-12-13T03:47:50.530Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:47:50.531Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:47:50.591Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:50.592Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:47:50.592Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:47:50.602Z"}
+info: (72) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:47:50.602Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:52.252Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:47:52.316Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:52.319Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:47:52.319Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:47:52.338Z"}
+info: (72) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:47:52.338Z"}
+info: (37) Chatroom service: User 99KJx76lgq8LMSK4AAAL entered the chat. {"timestamp":"2023-12-13T03:47:56.272Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:56.275Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:56.277Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:47:56.282Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:47:56.285Z"}
+info: (37) Chatroom service: User jE8MVLCWFCjTzyBPAAAJ entered the chat. {"timestamp":"2023-12-13T03:48:01.418Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:01.420Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:01.422Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:01.428Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:48:01.429Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:04.784Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:04.786Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:04.788Z"}
+info: (37) User 99KJx76lgq8LMSK4AAAL disconnected. {"timestamp":"2023-12-13T03:48:04.788Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:48:04.790Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:48:04.847Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:04.848Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:48:04.848Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:48:04.862Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:48:04.862Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:15.872Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:15.873Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:15.876Z"}
+info: (37) User jE8MVLCWFCjTzyBPAAAJ disconnected. {"timestamp":"2023-12-13T03:48:15.876Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:48:15.876Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:48:15.946Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:15.947Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:48:15.948Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:48:15.962Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:48:15.962Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:17.451Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:48:17.521Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:17.522Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:48:17.522Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:48:17.538Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:48:17.538Z"}
+info: (37) Chatroom service: User ZL-Z2okWo5ZfhydnAAAR entered the chat. {"timestamp":"2023-12-13T03:48:22.799Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:22.801Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:22.803Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:22.809Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:48:22.810Z"}
+info: (37) Chatroom service: User Gdtr6ToayHNwBL-wAAAP entered the chat. {"timestamp":"2023-12-13T03:48:26.425Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:26.427Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:26.430Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:26.437Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:48:26.438Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:48:45.890Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:45.891Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:48:45.891Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:48:45.936Z"}
+info: (37) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:48:45.937Z"}
+info: (37) Chatroom service: User Uz_06YRCF7JXW94nAAAT entered the chat. {"timestamp":"2023-12-13T03:48:51.310Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:51.313Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:51.315Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:48:51.327Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:48:51.328Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:49:02.073Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:02.074Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:49:02.074Z"}
+info: (88) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:49:02.086Z"}
+info: (88) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:49:02.086Z"}
+info: (37) Chatroom service: User 4za2djl1sDtXIijrAAAV entered the chat. {"timestamp":"2023-12-13T03:49:24.906Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:24.908Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:24.911Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:24.917Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:49:24.918Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:31.117Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:31.118Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:31.124Z"}
+info: (37) User 4za2djl1sDtXIijrAAAV disconnected. {"timestamp":"2023-12-13T03:49:31.124Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:49:31.128Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:49:31.191Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:31.193Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:49:31.193Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:49:31.202Z"}
+info: (72) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:49:31.202Z"}
+info: (37) Chatroom service: User 277wwFzuzJd9Lb23AAAX entered the chat. {"timestamp":"2023-12-13T03:49:50.488Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:50.491Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:50.493Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:49:50.500Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:49:50.502Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:49:57.617Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:49:57.617Z"}
+info: (57) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:49:57.658Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:49:57.665Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:50:03.546Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:50:03.546Z"}
+info: (67) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:50:03.571Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:50:03.578Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:50:10.483Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:50:10.483Z"}
+info: (47) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:50:10.501Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:50:10.506Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:50:20.010Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:50:20.010Z"}
+info: (87) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:50:20.037Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:50:20.042Z"}
+warn: (87) Moderator Service: Chat undefined used banned word(s). {"timestamp":"2023-12-13T03:50:21.423Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:50:21.432Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:50:21.432Z"}
+info: (87) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:50:21.442Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:50:21.455Z"}
+info: (37) Chatroom service: User Gdtr6ToayHNwBL-wAAAP entered the chat. {"timestamp":"2023-12-13T03:50:39.033Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:39.035Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:39.037Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:39.045Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:50:39.046Z"}
+info: (37) Chatroom service: User 277wwFzuzJd9Lb23AAAX entered the chat. {"timestamp":"2023-12-13T03:50:42.614Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:42.617Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:42.619Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:42.625Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:50:42.626Z"}
+info: (37) Chatroom service: User Uz_06YRCF7JXW94nAAAT entered the chat. {"timestamp":"2023-12-13T03:50:45.578Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:45.581Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:45.583Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:45.590Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:50:45.591Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:50:50.411Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:50.412Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:50:50.412Z"}
+info: (72) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:50:50.425Z"}
+info: (72) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:50:50.426Z"}
+info: (37) Chatroom service: User rmoblNcpDboF46gdAAAZ entered the chat. {"timestamp":"2023-12-13T03:50:56.861Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:56.864Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:56.866Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:50:56.872Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:50:56.873Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:51:03.820Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:51:03.820Z"}
+info: (37) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:51:03.834Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:51:03.840Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:52:21.007Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:52:21.109Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:52:21.110Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:52:21.110Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:52:21.129Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:52:21.129Z"}
+info: (37) Chatroom service: User 4l4OrZVtAwZriflsAAAb entered the chat. {"timestamp":"2023-12-13T03:52:26.717Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:52:26.719Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:52:26.720Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:52:26.724Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:52:26.725Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T03:52:28.183Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T03:52:28.184Z"}
+info: (57) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T03:52:28.195Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T03:52:28.200Z"}
+info: (37) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:56:53.873Z"}
+info: (47) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:56:53.939Z"}
+info: (57) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:56:54.076Z"}
+info: (72) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:56:54.148Z"}
+info: (83) Moderator Listening on 5001 {"timestamp":"2023-12-13T03:56:54.190Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:56:54.415Z"}
+info: (36) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:56:54.415Z"}
+info: (46) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:56:54.518Z"}
+info: (56) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:56:54.555Z"}
+info: (72) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:56:54.585Z"}
+info: (82) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T03:56:54.629Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:57:49.787Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:57:49.851Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:57:49.853Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:57:49.853Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:57:49.910Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:57:49.911Z"}
+info: (36) Chatroom service: User lV0AmIXuqykMBiFfAAAL entered the chat. {"timestamp":"2023-12-13T03:57:52.631Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:57:52.636Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:57:52.640Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:57:52.653Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:57:52.656Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:58:00.887Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:58:00.889Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:58:00.889Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:58:00.939Z"}
+info: (46) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:58:00.939Z"}
+info: (36) Chatroom service: User TJFJKCv3XsYtuZjLAAAN entered the chat. {"timestamp":"2023-12-13T03:58:06.659Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:58:06.662Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:58:06.665Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:58:06.672Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T03:58:06.673Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T03:58:18.985Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T03:58:18.986Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:58:18.986Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T03:58:19.054Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T03:58:19.054Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:00:14.577Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:00:14.578Z"}
+info: (37) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:00:14.633Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:00:14.650Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:07.601Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:07.607Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:07.619Z"}
+info: (36) User TJFJKCv3XsYtuZjLAAAN disconnected. {"timestamp":"2023-12-13T04:02:07.620Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:02:07.623Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:07.740Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:07.743Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:07.743Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:07.814Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:07.814Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:08.905Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:08.978Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:08.979Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:08.979Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:08.996Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:08.996Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:13.614Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:13.695Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:13.696Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:13.697Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:13.706Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:13.707Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:16.067Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:16.202Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:16.204Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:16.204Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:16.215Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:16.215Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:17.836Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:17.975Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:17.976Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:17.976Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:17.986Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:17.986Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:19.510Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:19.632Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:19.633Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:19.634Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:19.664Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:19.664Z"}
+info: (36) Chatroom service: User FRvxYmSr8sjcYS54AAAT entered the chat. {"timestamp":"2023-12-13T04:02:31.070Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:31.073Z"}
+info: (36) Chatroom service: User FRvxYmSr8sjcYS54AAAT entered the chat. {"timestamp":"2023-12-13T04:02:34.692Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:34.694Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:34.697Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:34.702Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:02:34.707Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:40.560Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:40.640Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:40.642Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:40.642Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:40.662Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:40.662Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:43.059Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:43.119Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:43.120Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:43.120Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:43.140Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:43.140Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:44.772Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:44.844Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:44.845Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:44.845Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:44.862Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:44.862Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:46.501Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:02:46.574Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:02:46.575Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:02:46.575Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:02:46.595Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:02:46.595Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:52.370Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:52.379Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:52.382Z"}
+info: (36) User FRvxYmSr8sjcYS54AAAT disconnected. {"timestamp":"2023-12-13T04:04:52.383Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:04:52.389Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:54.264Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:04:54.340Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:54.342Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:04:54.342Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:04:54.356Z"}
+info: (46) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:04:54.357Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:57.457Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:04:57.535Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:57.536Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:04:57.536Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:04:57.552Z"}
+info: (46) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:04:57.552Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:59.372Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:04:59.450Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:04:59.451Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:04:59.451Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:04:59.462Z"}
+info: (46) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:04:59.462Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:00.653Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:05:00.729Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:00.731Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:05:00.731Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:05:00.738Z"}
+info: (46) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:05:00.738Z"}
+info: (36) Chatroom service: User om03xZoM5GGDW7-GAAAr entered the chat. {"timestamp":"2023-12-13T04:05:03.838Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:03.841Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:03.843Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:03.850Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:05:03.851Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:06.376Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:05:06.428Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:06.429Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:05:06.429Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:05:06.440Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:05:06.441Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:05:10.675Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:05:10.676Z"}
+info: (57) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:05:10.709Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:05:10.716Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:25.486Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:05:25.561Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:25.562Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:05:25.562Z"}
+info: (82) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:05:25.575Z"}
+info: (82) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:05:25.575Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:31.173Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:05:31.260Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:31.261Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:05:31.261Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:05:31.270Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:05:31.270Z"}
+info: (36) Chatroom service: User HFN9P9Y10yyeEWY1AAAx entered the chat. {"timestamp":"2023-12-13T04:05:34.779Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:34.781Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:34.783Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:05:34.789Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:05:34.790Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:05:38.207Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:05:38.207Z"}
+info: (83) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:05:38.236Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:05:38.243Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:45.544Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:45.545Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:45.548Z"}
+info: (36) User lV0AmIXuqykMBiFfAAAL disconnected. {"timestamp":"2023-12-13T04:08:45.548Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:08:45.549Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:57.771Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:57.772Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:57.775Z"}
+info: (36) User om03xZoM5GGDW7-GAAAr disconnected. {"timestamp":"2023-12-13T04:08:57.775Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:08:57.775Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:58.314Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:58.715Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:59.093Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:59.094Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:08:59.097Z"}
+info: (36) User HFN9P9Y10yyeEWY1AAAx disconnected. {"timestamp":"2023-12-13T04:08:59.097Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:08:59.098Z"}
+info: (220460) Event bus: Listening on port 4000 {"timestamp":"2023-12-13T04:25:11.125Z"}
+info: (220460) Event Bus (Received Event) ChatCreated {"timestamp":"2023-12-13T04:25:34.115Z"}
+info: (220460) Event Bus (Sending Event to 5000) ChatCreated {"timestamp":"2023-12-13T04:25:34.115Z"}
+info: (220460) Event Bus (Sending Event to 5001) ChatCreated {"timestamp":"2023-12-13T04:25:34.198Z"}
+info: (220460) Event Bus (Received Event) ChatModerated {"timestamp":"2023-12-13T04:25:34.265Z"}
+info: (220460) Event Bus (Sending Event to 5000) ChatModerated {"timestamp":"2023-12-13T04:25:34.265Z"}
+info: (220460) Event Bus (Sending Event to 5001) ChatModerated {"timestamp":"2023-12-13T04:25:34.274Z"}
+info: (220460) Event Bus (Sending Event to 5002) ChatModerated {"timestamp":"2023-12-13T04:25:34.286Z"}
+info: (220460) Event Bus (Sending Event to 5002) ChatCreated {"timestamp":"2023-12-13T04:25:34.322Z"}
+info: (220460) Event Bus (Received Event) ChatCreated {"timestamp":"2023-12-13T04:33:32.926Z"}
+info: (220460) Event Bus (Sending Event to 5000) ChatCreated {"timestamp":"2023-12-13T04:33:32.927Z"}
+info: (220460) Event Bus (Sending Event to 5001) ChatCreated {"timestamp":"2023-12-13T04:33:32.943Z"}
+info: (220460) Event Bus (Received Event) ChatModerated {"timestamp":"2023-12-13T04:33:32.951Z"}
+info: (220460) Event Bus (Sending Event to 5000) ChatModerated {"timestamp":"2023-12-13T04:33:32.951Z"}
+info: (220460) Event Bus (Sending Event to 5001) ChatModerated {"timestamp":"2023-12-13T04:33:32.973Z"}
+info: (220460) Event Bus (Sending Event to 5002) ChatModerated {"timestamp":"2023-12-13T04:33:32.978Z"}
+info: (220460) Event Bus (Sending Event to 5002) ChatCreated {"timestamp":"2023-12-13T04:33:32.999Z"}
+info: (224170) Event bus: Listening on port 4000 {"timestamp":"2023-12-13T04:38:12.503Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T04:41:03.424Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-13T04:41:03.641Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-13T04:41:03.699Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-13T04:41:03.685Z"}
+info: (66) Moderator Listening on 5001 {"timestamp":"2023-12-13T04:41:03.741Z"}
+info: (56) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T04:41:03.791Z"}
+info: (36) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T04:41:03.808Z"}
+info: (66) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T04:41:03.821Z"}
+info: (81) Moderator Listening on 5001 {"timestamp":"2023-12-13T04:41:03.804Z"}
+info: (46) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T04:41:03.823Z"}
+info: (81) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T04:41:03.839Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:41:04.899Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:04.906Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:41:04.906Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:41:05.114Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:41:05.115Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:41:05.964Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:05.978Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:41:05.978Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:41:06.000Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:41:06.001Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:41:07.252Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:07.255Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:41:07.256Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:41:07.321Z"}
+info: (56) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:41:07.321Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:50.869Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:41:51.059Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:51.064Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:41:51.065Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:41:51.168Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:41:51.168Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:51.951Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:41:52.100Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:52.103Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:41:52.103Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:41:52.125Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:41:52.125Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:52.730Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:41:52.889Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:41:52.890Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:41:52.890Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:41:52.918Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:41:52.918Z"}
+info: (36) Chatroom service: User nJkSVmgSE_8DkzdFAAAL entered the chat. {"timestamp":"2023-12-13T04:42:56.782Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:42:56.785Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:42:56.787Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:42:56.796Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:42:56.802Z"}
+info: (36) Chatroom service: User -ex2tGWcTBnKUM6zAAAJ entered the chat. {"timestamp":"2023-12-13T04:42:59.671Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:42:59.673Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:42:59.674Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:42:59.679Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:42:59.680Z"}
+info: (36) Chatroom service: User Q7fONDaWpXdmZ3w7AAAH entered the chat. {"timestamp":"2023-12-13T04:43:03.618Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:43:03.620Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:43:03.622Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:43:03.625Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:43:03.628Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:43:12.641Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:43:12.642Z"}
+info: (56) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:43:12.752Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:43:12.788Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:43:33.447Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:43:33.447Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:43:33.524Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:43:33.541Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:43:36.610Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:43:36.611Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:43:36.624Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:43:36.642Z"}
+info: (46) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:43:45.652Z"}
+info: (46) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T04:43:45.659Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T04:43:45.715Z"}
+info: (46) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T04:43:45.754Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T04:43:45.761Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:44:02.435Z"}
+info: (36) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T04:44:02.439Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T04:44:02.493Z"}
+info: (36) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T04:44:02.526Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T04:44:02.531Z"}
+info: (66) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:44:13.898Z"}
+info: (66) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T04:44:13.904Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T04:44:13.954Z"}
+info: (66) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T04:44:13.981Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T04:44:13.992Z"}
+info: (56) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:44:20.607Z"}
+info: (56) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T04:44:20.612Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T04:44:20.664Z"}
+info: (56) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T04:44:20.690Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T04:44:20.694Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:44:26.653Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:44:26.654Z"}
+info: (66) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:44:26.680Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:44:26.687Z"}
+info: (81) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:44:28.287Z"}
+info: (81) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T04:44:28.295Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T04:44:28.351Z"}
+info: (81) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T04:44:28.376Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T04:44:28.381Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:46:12.129Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:46:12.129Z"}
+info: (56) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:46:12.146Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:46:12.176Z"}
+info: (36) Chatroom service: User -ex2tGWcTBnKUM6zAAAJ entered the chat. {"timestamp":"2023-12-13T04:46:18.878Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:18.880Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:18.882Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:18.885Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:46:18.887Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:46:24.178Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:46:24.178Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:46:24.205Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:46:24.213Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:48.415Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:48.417Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:46:48.421Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:48.422Z"}
+info: (36) User nJkSVmgSE_8DkzdFAAAL disconnected. {"timestamp":"2023-12-13T04:46:48.422Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:56.841Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:56.842Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:56.846Z"}
+info: (36) User -ex2tGWcTBnKUM6zAAAJ disconnected. {"timestamp":"2023-12-13T04:46:56.846Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:46:56.847Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:46:57.183Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:46:57.184Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:46:57.185Z"}
+info: (36) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:46:57.210Z"}
+info: (36) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:46:57.219Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:06.776Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:06.778Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:06.782Z"}
+info: (36) User Q7fONDaWpXdmZ3w7AAAH disconnected. {"timestamp":"2023-12-13T04:47:06.782Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:47:06.783Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:47:07.026Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:07.028Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:47:07.028Z"}
+info: (81) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:47:07.052Z"}
+info: (81) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:47:07.053Z"}
+info: (36) Chatroom service: User f4-qUglrmvGzzyQ_AAAN entered the chat. {"timestamp":"2023-12-13T04:47:58.206Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:58.208Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:58.209Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:47:58.212Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T04:47:58.214Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:48:02.034Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T04:48:02.206Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T04:48:02.214Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:48:02.215Z"}
+info: (66) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T04:48:02.248Z"}
+info: (66) Load initial votes: [object Object] {"timestamp":"2023-12-13T04:48:02.249Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T04:48:31.690Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:48:31.690Z"}
+info: (81) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T04:48:31.720Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:48:31.727Z"}
+info: (38) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T05:12:12.756Z"}
+info: (57) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:12:12.901Z"}
+info: (47) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:12:12.954Z"}
+info: (37) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:12:13.022Z"}
+info: (67) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:12:13.202Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:12:13.230Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:12:13.254Z"}
+info: (77) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:12:13.336Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:12:13.346Z"}
+info: (82) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:12:13.358Z"}
+info: (87) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:12:13.490Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:12:14.868Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:14.873Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:12:14.874Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:12:15.113Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:12:15.114Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:12:15.254Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:15.258Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:12:15.260Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:12:15.362Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:12:15.362Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:12:17.139Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:17.142Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:12:17.143Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:12:17.188Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:12:17.188Z"}
+info: (38) Chatroom service: User WVGXLc9po4EMZQWZAAAB entered the chat. {"timestamp":"2023-12-13T05:12:23.377Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:23.379Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:23.381Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:23.397Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:12:23.399Z"}
+info: (38) Chatroom service: User SHRtBSuIkAzNW5hPAAAD entered the chat. {"timestamp":"2023-12-13T05:12:35.263Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:35.265Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:35.267Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:35.271Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:12:35.273Z"}
+info: (38) Chatroom service: User 3cLr9N4PcFyXmm6LAAAF entered the chat. {"timestamp":"2023-12-13T05:12:45.408Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:45.410Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:45.412Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:12:45.419Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:12:45.425Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:12:54.133Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:12:54.134Z"}
+info: (57) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:12:54.236Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:12:54.277Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:13:45.435Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:13:45.436Z"}
+info: (37) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:13:45.522Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:13:45.539Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:13:55.200Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:13:55.202Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:13:55.205Z"}
+info: (38) User 3cLr9N4PcFyXmm6LAAAF disconnected. {"timestamp":"2023-12-13T05:13:55.206Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:13:55.208Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:13:55.439Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:13:55.441Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:13:55.441Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:13:55.562Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:13:55.563Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:14:07.858Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:14:08.005Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:14:08.007Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:14:08.007Z"}
+info: (87) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:14:08.111Z"}
+info: (87) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:14:08.113Z"}
+info: (38) Chatroom service: User GA454bdAEYhA3HjaAAAJ entered the chat. {"timestamp":"2023-12-13T05:14:19.646Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:14:19.648Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:14:19.650Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:14:19.656Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:14:19.657Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:14:38.102Z"}
+info: (47) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:14:38.111Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:14:38.161Z"}
+info: (47) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:14:38.191Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:14:38.196Z"}
+info: (77) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:14:48.915Z"}
+info: (77) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:14:48.921Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:14:48.972Z"}
+info: (77) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:14:49.013Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:14:49.017Z"}
+info: (87) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:14:57.945Z"}
+info: (87) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:14:57.951Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:14:58.002Z"}
+info: (87) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:14:58.035Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:14:58.039Z"}
+info: (87) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:15:02.394Z"}
+info: (87) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:15:02.401Z"}
+info: (38) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:15:02.408Z"}
+info: (38) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:15:02.436Z"}
+info: (87) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:15:02.429Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:19.430Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:19.432Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:19.435Z"}
+info: (38) User SHRtBSuIkAzNW5hPAAAD disconnected. {"timestamp":"2023-12-13T05:15:19.437Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:15:19.438Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:15:19.735Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:19.742Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:15:19.742Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:15:19.846Z"}
+info: (37) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:15:19.847Z"}
+info: (38) Chatroom service: User PE7JZ0Wes4oMQjuUAAAL entered the chat. {"timestamp":"2023-12-13T05:15:38.703Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:38.705Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:38.707Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:15:38.715Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:15:38.716Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:15:41.503Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:15:41.506Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:15:41.541Z"}
+info: (37) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:15:41.531Z"}
+info: (38) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T05:23:27.969Z"}
+info: (57) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:23:28.126Z"}
+info: (47) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:23:28.207Z"}
+info: (83) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:23:28.239Z"}
+info: (37) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:23:28.264Z"}
+info: (67) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:23:28.532Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:23:28.696Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:23:28.723Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:23:28.725Z"}
+info: (73) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:23:28.756Z"}
+info: (83) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:23:28.964Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:23:30.686Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:30.691Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:23:30.691Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:23:30.851Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:23:30.851Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:23:31.425Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:31.429Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:23:31.429Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:23:31.455Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:23:31.455Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:23:33.435Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:33.440Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:23:33.441Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:23:33.474Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:23:33.474Z"}
+info: (38) Chatroom service: User zO1kS8WZy8HTvaGBAAAB entered the chat. {"timestamp":"2023-12-13T05:23:50.198Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:50.202Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:50.204Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:50.219Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:23:50.220Z"}
+info: (38) Chatroom service: User WulhSC4WHjGr2XEGAAAD entered the chat. {"timestamp":"2023-12-13T05:23:52.563Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:52.565Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:52.566Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:52.570Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:23:52.573Z"}
+info: (38) Chatroom service: User D8F5rmffqUlH9FzHAAAF entered the chat. {"timestamp":"2023-12-13T05:23:54.443Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:54.445Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:54.447Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:23:54.452Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:23:54.454Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:24:21.936Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:24:21.936Z"}
+info: (57) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:24:22.033Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:24:22.067Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:24:55.180Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:24:55.181Z"}
+info: (47) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:24:55.257Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:24:55.270Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:25:05.438Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:25:05.438Z"}
+info: (67) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:25:05.499Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:25:05.509Z"}
+info: (38) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:25:08.682Z"}
+info: (38) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:25:08.683Z"}
+info: (67) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:25:08.702Z"}
+info: (38) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:25:08.710Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:25:19.956Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:25:19.958Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:25:19.963Z"}
+info: (38) User zO1kS8WZy8HTvaGBAAAB disconnected. {"timestamp":"2023-12-13T05:25:19.963Z"}
+info: (38) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:25:19.964Z"}
+info: (38) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:25:20.148Z"}
+info: (38) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:25:20.149Z"}
+info: (38) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:25:20.149Z"}
+info: (83) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:25:20.273Z"}
+info: (83) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:25:20.274Z"}
+info: (37) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T05:27:28.812Z"}
+info: (58) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:27:29.161Z"}
+info: (48) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:27:29.165Z"}
+info: (38) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:27:29.269Z"}
+info: (48) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:27:29.336Z"}
+info: (38) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:27:29.444Z"}
+info: (69) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:27:29.520Z"}
+info: (58) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:27:29.552Z"}
+info: (68) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:27:29.606Z"}
+info: (84) Moderator Listening on 5001 {"timestamp":"2023-12-13T05:27:29.623Z"}
+info: (90) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T05:27:29.695Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:27:32.331Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:32.336Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:27:32.337Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:27:32.595Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:27:32.596Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:27:32.786Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:32.791Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:27:32.792Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:27:32.821Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:27:32.822Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:27:34.147Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:34.149Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:27:34.150Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:27:34.168Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:27:34.168Z"}
+info: (37) Chatroom service: User xWAq_dMybZKiyT7gAAAF entered the chat. {"timestamp":"2023-12-13T05:27:37.015Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:37.018Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:37.021Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:27:37.034Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:37.037Z"}
+info: (37) Chatroom service: User BMqUAC1YNPGgg7v8AAAD entered the chat. {"timestamp":"2023-12-13T05:27:38.974Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:38.979Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:38.980Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:38.986Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:27:38.987Z"}
+info: (37) Chatroom service: User iQ6Os9tz9zFl2Si_AAAB entered the chat. {"timestamp":"2023-12-13T05:27:41.079Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:41.081Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:41.084Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:27:41.089Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:27:41.090Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:28:16.296Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:28:16.298Z"}
+info: (48) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:28:16.403Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:28:16.439Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:28:20.887Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:28:20.888Z"}
+info: (48) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:28:20.911Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:28:20.923Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:28:44.968Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:28:44.968Z"}
+info: (38) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:28:45.047Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:28:45.067Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:28:52.002Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:28:52.003Z"}
+info: (84) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:28:52.051Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:28:52.065Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:29:07.918Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:29:07.919Z"}
+info: (58) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:29:07.981Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:29:07.989Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:29:25.899Z"}
+info: (48) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:29:25.908Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:29:25.951Z"}
+info: (48) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:29:25.981Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:29:25.986Z"}
+info: (58) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:29:33.598Z"}
+info: (58) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:29:33.606Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:29:33.665Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:29:33.693Z"}
+info: (58) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:29:33.690Z"}
+info: (58) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:29:36.958Z"}
+info: (58) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:29:36.963Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:29:36.968Z"}
+info: (58) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:29:36.987Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:29:36.999Z"}
+info: (90) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:29:41.772Z"}
+info: (90) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:29:41.792Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:29:41.851Z"}
+info: (90) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:29:41.883Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:29:41.889Z"}
+info: (38) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:30:09.280Z"}
+info: (38) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:30:09.285Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:30:09.351Z"}
+info: (38) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:30:09.384Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:30:09.388Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:16.252Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:16.255Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:16.260Z"}
+info: (37) User BMqUAC1YNPGgg7v8AAAD disconnected. {"timestamp":"2023-12-13T05:30:16.260Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:30:16.262Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:30:16.582Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:16.585Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:30:16.585Z"}
+info: (68) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:30:16.680Z"}
+info: (68) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:30:16.681Z"}
+info: (37) Chatroom service: User MxSBJiCZ-SSkTOwtAAAH entered the chat. {"timestamp":"2023-12-13T05:30:45.270Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:45.271Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:45.273Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:30:45.276Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:30:45.278Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:30:48.562Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:30:48.562Z"}
+info: (38) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:30:48.587Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:30:48.608Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:36.547Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:36.568Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:36.672Z"}
+info: (37) User xWAq_dMybZKiyT7gAAAF disconnected. {"timestamp":"2023-12-13T05:55:36.672Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:55:36.702Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:55:37.260Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:37.262Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:55:37.262Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:55:37.337Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:55:37.353Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:38.267Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:38.269Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:38.272Z"}
+info: (37) User MxSBJiCZ-SSkTOwtAAAH disconnected. {"timestamp":"2023-12-13T05:55:38.272Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:55:38.274Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:55:38.528Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:38.534Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:55:38.534Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:55:38.574Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:55:38.574Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:39.978Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:39.980Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:39.983Z"}
+info: (37) User iQ6Os9tz9zFl2Si_AAAB disconnected. {"timestamp":"2023-12-13T05:55:39.983Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:55:39.998Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:55:40.410Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:40.411Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:55:40.412Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:55:40.459Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:55:40.459Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:41.979Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:55:42.127Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:42.129Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:55:42.129Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:55:42.164Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:55:42.164Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:43.128Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T05:55:43.235Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:55:43.245Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T05:55:43.245Z"}
+info: (48) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:55:43.258Z"}
+info: (48) Load initial votes: [object Object] {"timestamp":"2023-12-13T05:55:43.259Z"}
+info: (37) Chatroom service: User 4XWOPqcOdQOstX6vAAAP entered the chat. {"timestamp":"2023-12-13T05:56:38.640Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:56:38.663Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:56:38.664Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:56:38.691Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:56:38.726Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:57:36.320Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:57:36.322Z"}
+info: (84) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:57:36.439Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:57:36.485Z"}
+info: (58) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:57:54.716Z"}
+info: (58) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:57:54.733Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:57:54.764Z"}
+info: (58) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:57:54.820Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:57:54.831Z"}
+info: (58) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:57:59.538Z"}
+info: (58) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:57:59.542Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:57:59.547Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:57:59.566Z"}
+info: (58) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:57:59.563Z"}
+info: (58) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:58:00.907Z"}
+info: (58) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:58:00.910Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:58:00.915Z"}
+info: (58) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:58:00.928Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:58:00.931Z"}
+info: (90) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:58:11.503Z"}
+info: (90) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:58:11.512Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:58:11.534Z"}
+info: (90) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:58:11.556Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:58:11.564Z"}
+info: (90) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:58:14.295Z"}
+info: (90) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:58:14.299Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:58:14.303Z"}
+info: (90) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:58:14.317Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:58:14.319Z"}
+info: (37) Chatroom service: User D4-9SFD12NkmzPJFAAAR entered the chat. {"timestamp":"2023-12-13T05:59:04.303Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:04.305Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:04.306Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:04.322Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:59:04.324Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T05:59:09.059Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T05:59:09.059Z"}
+info: (69) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T05:59:09.093Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T05:59:09.103Z"}
+info: (58) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T05:59:22.676Z"}
+info: (58) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T05:59:22.678Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T05:59:22.681Z"}
+info: (58) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T05:59:22.698Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T05:59:22.700Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:50.338Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:50.340Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:50.363Z"}
+info: (37) User 4XWOPqcOdQOstX6vAAAP disconnected. {"timestamp":"2023-12-13T05:59:50.364Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:59:50.443Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:51.134Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:51.135Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:51.138Z"}
+info: (37) User D4-9SFD12NkmzPJFAAAR disconnected. {"timestamp":"2023-12-13T05:59:51.138Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T05:59:51.142Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T05:59:53.329Z"}
+info: (36) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T21:16:27.015Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-13T21:16:27.255Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-13T21:16:27.273Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-13T21:16:27.287Z"}
+info: (71) Moderator Listening on 5001 {"timestamp":"2023-12-13T21:16:27.302Z"}
+info: (83) Moderator Listening on 5001 {"timestamp":"2023-12-13T21:16:27.390Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T21:16:27.713Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T21:16:27.724Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T21:16:27.726Z"}
+info: (67) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T21:16:27.737Z"}
+info: (77) Vote service: Listening on port 5002 {"timestamp":"2023-12-13T21:16:27.770Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:16:32.653Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:16:32.657Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:16:32.657Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:16:32.791Z"}
+info: (37) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:16:32.792Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:16:56.812Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:16:56.877Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:16:56.880Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:16:56.880Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:16:56.948Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:16:56.948Z"}
+info: (36) Chatroom service: User FoZR88Y10ogIZHdsAAAD entered the chat. {"timestamp":"2023-12-13T21:17:01.780Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:01.782Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:01.783Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:17:01.789Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:01.790Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:17:26.972Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:26.973Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:17:26.974Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:17:27.024Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:17:27.025Z"}
+info: (36) Chatroom service: User 83hs4Y2Y67205p26AAAF entered the chat. {"timestamp":"2023-12-13T21:17:34.923Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:34.925Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:34.928Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:34.934Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:17:34.935Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:17:43.873Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:17:43.874Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:17:43.875Z"}
+info: (67) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:17:43.926Z"}
+info: (67) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:17:43.926Z"}
+info: (36) Chatroom service: User XdOPgNxro-SMn4qdAAAH entered the chat. {"timestamp":"2023-12-13T21:18:04.877Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:04.880Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:04.882Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:04.889Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:18:04.890Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:08.267Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:08.271Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:08.274Z"}
+info: (36) User FoZR88Y10ogIZHdsAAAD disconnected. {"timestamp":"2023-12-13T21:18:08.274Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:18:08.275Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:18:08.352Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:08.354Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:18:08.354Z"}
+info: (77) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:18:08.405Z"}
+info: (77) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:18:08.406Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:24.098Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:24.100Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:24.103Z"}
+info: (36) User XdOPgNxro-SMn4qdAAAH disconnected. {"timestamp":"2023-12-13T21:18:24.104Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:18:24.105Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:18:24.178Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:24.180Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:18:24.180Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:18:24.189Z"}
+info: (37) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:18:24.189Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:24.927Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:18:24.977Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:24.978Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:18:24.978Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:18:24.988Z"}
+info: (37) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:18:24.988Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:32.806Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:32.808Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:18:32.811Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:32.811Z"}
+info: (36) User 83hs4Y2Y67205p26AAAF disconnected. {"timestamp":"2023-12-13T21:18:32.812Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:18:32.879Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:32.881Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:18:32.881Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:18:32.894Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:18:32.903Z"}
+info: (36) Chatroom service: User VtTUn5ud1slpYdtZAAAJ entered the chat. {"timestamp":"2023-12-13T21:18:45.297Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:45.299Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:45.301Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:45.306Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:18:45.309Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:56.404Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:56.404Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:56.406Z"}
+info: (36) User VtTUn5ud1slpYdtZAAAJ disconnected. {"timestamp":"2023-12-13T21:18:56.406Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:18:56.408Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:18:56.486Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:56.488Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:18:56.488Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:18:56.499Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:18:56.500Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:58.910Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:18:58.974Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:18:58.975Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:18:58.975Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:18:58.991Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:18:58.991Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:00.674Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T21:19:00.732Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:00.733Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T21:19:00.733Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:19:00.741Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-13T21:19:00.741Z"}
+info: (36) Chatroom service: User rWcboPO7z6yFK2tfAAAR entered the chat. {"timestamp":"2023-12-13T21:19:05.054Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:05.058Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:05.060Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:05.063Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:19:05.065Z"}
+info: (36) Chatroom service: User X9JH3yMfV7TYByprAAAV entered the chat. {"timestamp":"2023-12-13T21:19:12.067Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:12.068Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:12.069Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T21:19:12.071Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-13T21:19:12.072Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T21:19:22.037Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T21:19:22.037Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T21:19:22.084Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T21:19:22.101Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T21:19:30.465Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T21:19:30.465Z"}
+info: (56) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T21:19:30.502Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T21:19:30.511Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:19:41.035Z"}
+info: (37) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T21:19:41.040Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T21:19:41.070Z"}
+info: (37) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T21:19:41.093Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T21:19:41.095Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T21:19:45.036Z"}
+info: (37) Vote Service: Writing to votes collection. {"timestamp":"2023-12-13T21:19:45.040Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-13T21:19:45.044Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-13T21:19:45.053Z"}
+info: (37) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-13T21:19:45.051Z"}
+warn: (36) Moderator Service: Chat undefined used banned word(s). {"timestamp":"2023-12-13T22:18:20.576Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T22:18:20.588Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T22:18:20.589Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T22:18:20.636Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T22:18:20.640Z"}
+warn: (56) Moderator Service: Chat undefined used banned word(s). {"timestamp":"2023-12-13T22:18:32.246Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-13T22:18:32.253Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T22:18:32.253Z"}
+info: (56) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-13T22:18:32.264Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T22:18:32.269Z"}
+info: (36) Chatroom service: Reading chats collection. {"timestamp":"2023-12-13T22:21:56.732Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T22:21:56.733Z"}
+info: (36) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T22:21:56.734Z"}
+info: (77) Vote Service: Reading votes collection. {"timestamp":"2023-12-13T22:21:56.744Z"}
+info: (77) Load initial votes: [object Object] {"timestamp":"2023-12-13T22:21:56.744Z"}
+info: (36) Chatroom service: User 7U7vSORzOje81WoeAAAX entered the chat. {"timestamp":"2023-12-13T22:22:00.876Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T22:22:00.877Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-13T22:30:16.663Z"}
+info: (36) Chatroom service: User Frvz4nZGvGzUqd7_AAAT entered the chat. {"timestamp":"2023-12-14T01:00:40.605Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:00:40.606Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:00:40.608Z"}
+info: (36) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:00:40.612Z"}
+info: (36) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:00:40.613Z"}
+info: (36) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-14T01:00:48.143Z"}
+info: (36) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-14T01:00:48.143Z"}
+info: (83) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-14T01:00:48.158Z"}
+info: (36) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-14T01:00:48.163Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:00:55.723Z"}
+info: (47) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:00:55.727Z"}
+info: (36) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:00:55.753Z"}
+info: (47) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:00:55.768Z"}
+info: (36) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:00:55.770Z"}
+info: (36) Moderator Listening on 5001 {"timestamp":"2023-12-14T01:04:24.725Z"}
+info: (56) Moderator Listening on 5001 {"timestamp":"2023-12-14T01:04:24.788Z"}
+info: (46) Moderator Listening on 5001 {"timestamp":"2023-12-14T01:04:24.837Z"}
+info: (37) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-14T01:04:24.841Z"}
+info: (66) Moderator Listening on 5001 {"timestamp":"2023-12-14T01:04:24.946Z"}
+info: (81) Moderator Listening on 5001 {"timestamp":"2023-12-14T01:04:25.053Z"}
+info: (57) Vote service: Listening on port 5002 {"timestamp":"2023-12-14T01:04:25.056Z"}
+info: (47) Vote service: Listening on port 5002 {"timestamp":"2023-12-14T01:04:25.050Z"}
+info: (37) Vote service: Listening on port 5002 {"timestamp":"2023-12-14T01:04:25.064Z"}
+info: (73) Vote service: Listening on port 5002 {"timestamp":"2023-12-14T01:04:25.104Z"}
+info: (89) Vote service: Listening on port 5002 {"timestamp":"2023-12-14T01:04:25.187Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:30.915Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-14T01:04:31.026Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:31.028Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-14T01:04:31.029Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:04:31.101Z"}
+info: (47) Load initial votes: [object Object] {"timestamp":"2023-12-14T01:04:31.101Z"}
+info: (37) Chatroom service: User gPIB6Vgw-FY0zlVgAAAH entered the chat. {"timestamp":"2023-12-14T01:04:41.313Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:41.318Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:41.322Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:04:41.333Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:41.335Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:43.877Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-14T01:04:44.009Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:44.011Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-14T01:04:44.011Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:04:44.067Z"}
+info: (57) Load initial votes: [object Object] {"timestamp":"2023-12-14T01:04:44.067Z"}
+info: (37) Chatroom service: User wXhJV6X_jmlAEmtyAAAJ entered the chat. {"timestamp":"2023-12-14T01:04:45.641Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:45.644Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:45.647Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:04:45.652Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:04:45.654Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-14T01:05:22.454Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-14T01:05:22.454Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-14T01:05:22.508Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-14T01:05:22.523Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:18.739Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:18.741Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:18.745Z"}
+info: (37) User wXhJV6X_jmlAEmtyAAAJ disconnected. {"timestamp":"2023-12-14T01:06:18.746Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:06:18.746Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-14T01:06:18.828Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:18.829Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-14T01:06:18.829Z"}
+info: (73) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:06:18.888Z"}
+info: (73) Load initial votes: [object Object] {"timestamp":"2023-12-14T01:06:18.888Z"}
+info: (37) Chatroom service: User GdsYuUAEEzdxa-rIAAAL entered the chat. {"timestamp":"2023-12-14T01:06:22.936Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:22.937Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:22.939Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:06:22.943Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:06:22.946Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-14T01:06:25.189Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-14T01:06:25.189Z"}
+info: (46) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-14T01:06:25.233Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-14T01:06:25.240Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:06:51.987Z"}
+info: (47) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:06:51.991Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:06:52.018Z"}
+info: (47) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:06:52.037Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:06:52.040Z"}
+warn: (36) Moderator Service: Chat undefined used banned word(s). {"timestamp":"2023-12-14T01:07:54.013Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-14T01:07:54.020Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-14T01:07:54.020Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-14T01:07:54.035Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-14T01:07:54.042Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-14T01:07:59.605Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-14T01:07:59.605Z"}
+info: (46) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-14T01:07:59.625Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-14T01:07:59.631Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:52.946Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:52.957Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:52.959Z"}
+info: (37) User GdsYuUAEEzdxa-rIAAAL disconnected. {"timestamp":"2023-12-14T01:08:52.959Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:08:52.961Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-14T01:08:53.095Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:53.098Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-14T01:08:53.098Z"}
+info: (89) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:08:53.149Z"}
+info: (89) Load initial votes: [object Object] {"timestamp":"2023-12-14T01:08:53.150Z"}
+info: (37) Chatroom service: User uQA1geB7y08P6-4TAAAN entered the chat. {"timestamp":"2023-12-14T01:08:56.951Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:56.952Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:56.955Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:08:56.960Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:08:56.961Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:08:58.866Z"}
+info: (47) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:08:58.869Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:08:58.873Z"}
+info: (47) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:08:58.882Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:08:58.885Z"}
+info: (47) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:09:00.534Z"}
+info: (47) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:09:00.537Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:09:00.540Z"}
+info: (47) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:09:00.553Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:09:00.556Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:52:25.520Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:52:25.521Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:52:25.531Z"}
+info: (37) User uQA1geB7y08P6-4TAAAN disconnected. {"timestamp":"2023-12-14T01:52:25.531Z"}
+info: (37) Chatroom service: Writing to users collection. {"timestamp":"2023-12-14T01:52:25.539Z"}
+info: (37) Chatroom service: Reading chats collection. {"timestamp":"2023-12-14T01:52:25.681Z"}
+info: (37) Chatroom service: Reading users collection. {"timestamp":"2023-12-14T01:52:25.682Z"}
+info: (37) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-14T01:52:25.682Z"}
+info: (37) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:52:25.760Z"}
+info: (37) Load initial votes: [object Object] {"timestamp":"2023-12-14T01:52:25.762Z"}
+info: (37) Chatroom service: Writing to chats collection. {"timestamp":"2023-12-14T01:52:47.588Z"}
+info: (37) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-14T01:52:47.588Z"}
+info: (36) Moderator Service: Emitted ChatModerated event. {"timestamp":"2023-12-14T01:52:47.601Z"}
+info: (37) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-14T01:52:47.606Z"}
+info: (89) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:53:03.160Z"}
+info: (89) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:53:03.170Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:53:03.225Z"}
+info: (89) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:53:03.246Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:53:03.250Z"}
+info: (89) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:53:05.517Z"}
+info: (89) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:53:05.519Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:53:05.522Z"}
+info: (89) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:53:05.531Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:53:05.534Z"}
+info: (89) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:53:09.168Z"}
+info: (89) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:53:09.170Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:53:09.173Z"}
+info: (89) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:53:09.180Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:53:09.182Z"}
+info: (89) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:53:11.801Z"}
+info: (89) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:53:11.803Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:53:11.806Z"}
+info: (89) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:53:11.813Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:53:11.815Z"}
+info: (57) Vote Service: Reading votes collection. {"timestamp":"2023-12-14T01:53:16.339Z"}
+info: (57) Vote Service: Writing to votes collection. {"timestamp":"2023-12-14T01:53:16.343Z"}
+info: (37) Chatroom service: VoteChecked event received. Sending updated votes to user. {"timestamp":"2023-12-14T01:53:16.375Z"}
+info: (57) Vote Service: Emitted VoteChecked event. {"timestamp":"2023-12-14T01:53:16.389Z"}
+info: (37) Chatroom Service: Emitted VoteClicked event. {"timestamp":"2023-12-14T01:53:16.392Z"}

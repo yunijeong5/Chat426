@@ -1,0 +1,97 @@
+info: (205156) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:29:11.588Z"}
+info: (205156) Chatroom service: User 0By8Juw_RSl3abJ3AAAJ entered the chat. {"timestamp":"2023-12-13T03:29:24.668Z"}
+error: getaddrinfo EAI_AGAIN db {"reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"timestamp":"2023-12-13T03:29:46.606Z"}
+info: (205658) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:31:00.157Z"}
+info: (205658) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:31:08.395Z"}
+info: (205658) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:31:29.936Z"}
+info: (205658) Chatroom service: User z9Q4__Tn_x3mL4JvAAAJ entered the chat. {"timestamp":"2023-12-13T03:31:32.040Z"}
+info: (206198) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:33:25.554Z"}
+info: (206266) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:33:44.084Z"}
+info: (206266) Chatroom service: User mlSOVEJWPEyhOs1YAAAD entered the chat. {"timestamp":"2023-12-13T03:33:46.244Z"}
+info: (206332) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:34:03.355Z"}
+info: (206332) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:34:05.178Z"}
+info: (206332) Chatroom service: User pb-ZjKzq92bn-tvGAAAD entered the chat. {"timestamp":"2023-12-13T03:34:07.062Z"}
+info: (206502) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:35:53.517Z"}
+info: (206502) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:36:00.746Z"}
+info: (206502) Chatroom service: User R7PDsqe3m7CNCcyTAAAH entered the chat. {"timestamp":"2023-12-13T03:36:02.292Z"}
+info: (206720) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:37:00.121Z"}
+info: (206720) Chatroom service: User 1_HlMXNB7_tzGU5FAAAB entered the chat. {"timestamp":"2023-12-13T03:37:08.519Z"}
+info: (206816) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:37:43.341Z"}
+info: (206816) Chatroom service: User XyRRUg4HUm8UZ7VpAAAB entered the chat. {"timestamp":"2023-12-13T03:38:13.878Z"}
+info: (206939) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:39:00.313Z"}
+info: (207008) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:39:14.972Z"}
+info: (207091) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:39:40.737Z"}
+info: (207091) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:39:45.799Z"}
+info: (207091) Chatroom service: User JMx4QMZA83IWkh0eAAAH entered the chat. {"timestamp":"2023-12-13T03:39:48.627Z"}
+info: (207091) Chatroom service: User JMx4QMZA83IWkh0eAAAH entered the chat. {"timestamp":"2023-12-13T03:39:56.552Z"}
+info: (207321) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:40:16.409Z"}
+info: (207321) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:40:20.462Z"}
+info: (207321) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:40:26.179Z"}
+info: (207637) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:41:24.955Z"}
+info: (207637) Chatroom service: User 1Fhofy1zDan8sUXLAAAH entered the chat. {"timestamp":"2023-12-13T03:41:34.295Z"}
+info: (207637) Chatroom service: User xjXgUCqxVrEEbWI8AAAF entered the chat. {"timestamp":"2023-12-13T03:41:40.127Z"}
+info: (207637) User xjXgUCqxVrEEbWI8AAAF disconnected. {"timestamp":"2023-12-13T03:41:42.048Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:41:42.208Z"}
+info: (207637) User 1Fhofy1zDan8sUXLAAAH disconnected. {"timestamp":"2023-12-13T03:41:43.915Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:41:44.100Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:41:45.085Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:41:45.973Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:41:49.505Z"}
+info: (207637) Chatroom service: User RGXaNzODtWh3pVauAAAP entered the chat. {"timestamp":"2023-12-13T03:41:54.161Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:41:57.148Z"}
+info: (207637) Chatroom service: User psPP2GwaknbEc-g-AAAT entered the chat. {"timestamp":"2023-12-13T03:41:59.755Z"}
+info: (207637) Chatroom service: User ZLDPCs_9EHc7tMawAAAR entered the chat. {"timestamp":"2023-12-13T03:42:02.450Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:42:36.303Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:42:38.666Z"}
+info: (207637) User psPP2GwaknbEc-g-AAAT disconnected. {"timestamp":"2023-12-13T03:42:41.604Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:42:41.805Z"}
+info: (207637) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:42:47.832Z"}
+info: (207637) Chatroom service: User ieeV5TNo2h4d9w3gAAAZ entered the chat. {"timestamp":"2023-12-13T03:42:59.128Z"}
+error: (207637) Chatroom Service: TypeError: fetch failed {"timestamp":"2023-12-13T03:43:02.287Z"}
+info: (208551) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:43:58.269Z"}
+error: (208551) Chatroom Service: TypeError: fetch failed {"timestamp":"2023-12-13T03:44:00.157Z"}
+info: (208661) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T03:44:42.865Z"}
+error: (208661) Chatroom Service: TypeError: fetch failed {"timestamp":"2023-12-13T03:44:51.633Z"}
+info: (208661) Chatroom service: User 6jinQm59RZb36N50AAAD entered the chat. {"timestamp":"2023-12-13T03:45:15.034Z"}
+info: (208661) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:45:19.540Z"}
+info: (208661) Chatroom service: User LMIit4N4KxS-CvRzAAAJ entered the chat. {"timestamp":"2023-12-13T03:45:21.764Z"}
+info: (208661) User LMIit4N4KxS-CvRzAAAJ disconnected. {"timestamp":"2023-12-13T03:45:23.367Z"}
+info: (208661) User 6jinQm59RZb36N50AAAD disconnected. {"timestamp":"2023-12-13T03:45:27.792Z"}
+info: (208661) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T03:45:27.989Z"}
+info: (220731) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T04:25:24.036Z"}
+info: (220731) Chatroom service: User T0pKD79CoHU5j_2uAAAB entered the chat. {"timestamp":"2023-12-13T04:25:24.439Z"}
+info: (220731) User T0pKD79CoHU5j_2uAAAB disconnected. {"timestamp":"2023-12-13T04:25:26.145Z"}
+info: (220731) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:25:26.429Z"}
+info: (220731) Chatroom service: User M-E_yDF9BhqRpU9eAAAD entered the chat. {"timestamp":"2023-12-13T04:25:28.272Z"}
+info: (220731) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:25:34.270Z"}
+info: (220731) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:25:34.348Z"}
+info: (220731) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:25:40.809Z"}
+info: (220731) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:26:08.887Z"}
+info: (220731) User M-E_yDF9BhqRpU9eAAAD disconnected. {"timestamp":"2023-12-13T04:30:11.322Z"}
+info: (220731) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:30:11.682Z"}
+info: (220731) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:30:12.981Z"}
+info: (220731) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:30:14.390Z"}
+info: (222196) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T04:30:58.857Z"}
+info: (222196) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:31:06.889Z"}
+info: (222196) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:31:08.309Z"}
+info: (222196) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:31:09.138Z"}
+info: (222196) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:31:11.382Z"}
+info: (222196) Chatroom service: User 26GSv2Txkst3QZEtAAAJ entered the chat. {"timestamp":"2023-12-13T04:32:52.631Z"}
+info: (222196) Chatroom service: User xUtR_P-bDGYdjR7cAAAL entered the chat. {"timestamp":"2023-12-13T04:33:09.098Z"}
+info: (222196) Chatroom service: User QLQn2UBO4ibC1ek4AAAP entered the chat. {"timestamp":"2023-12-13T04:33:25.595Z"}
+info: (222196) Chatroom service: ChatModerated event received. Sending moderated chat to user. {"timestamp":"2023-12-13T04:33:32.955Z"}
+info: (222196) Chatroom Service: Emitted ChatCreated event. {"timestamp":"2023-12-13T04:33:33.013Z"}
+info: (222196) User QLQn2UBO4ibC1ek4AAAP disconnected. {"timestamp":"2023-12-13T04:33:54.018Z"}
+info: (223167) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T04:34:57.937Z"}
+info: (223167) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:35:05.763Z"}
+info: (223167) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:35:06.607Z"}
+info: (223167) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:35:09.184Z"}
+info: (223167) Chatroom service: User Tm5_cxYh4GbPb7KaAAAH entered the chat. {"timestamp":"2023-12-13T04:36:35.351Z"}
+info: (223167) Chatroom service: User o6onVBaDhuN4Dv6IAAAJ entered the chat. {"timestamp":"2023-12-13T04:36:43.093Z"}
+info: (223167) Chatroom service: User WhLHDUgTYyiOZbwyAAAL entered the chat. {"timestamp":"2023-12-13T04:36:46.903Z"}
+info: (223167) User WhLHDUgTYyiOZbwyAAAL disconnected. {"timestamp":"2023-12-13T04:37:00.068Z"}
+info: (223167) Chatroom service: Load initial chat and user data from database. {"timestamp":"2023-12-13T04:37:00.570Z"}
+info: (223167) User o6onVBaDhuN4Dv6IAAAJ disconnected. {"timestamp":"2023-12-13T04:37:41.739Z"}
+info: (223167) User Tm5_cxYh4GbPb7KaAAAH disconnected. {"timestamp":"2023-12-13T04:37:42.403Z"}
+info: (224058) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T04:38:01.139Z"}
+info: (224136) Chatroom Server: Listening on port 5000 {"timestamp":"2023-12-13T04:38:08.432Z"}
